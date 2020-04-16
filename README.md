@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## 欢迎来到空运字幕组的官方网站
 
-You can use the [editor on GitHub](https://github.com/ATFG1/atfgcn.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 可能性
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+可能
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```收到
+收到
 
 # Header 1
 ## Header 2
